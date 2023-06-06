@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1068px) {
+	.section-finish .finish-caption-wrapper {
+		bottom: -10.5em;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-finish .finish-caption-wrapper {
+		bottom: -12.25em;
+	}
+}

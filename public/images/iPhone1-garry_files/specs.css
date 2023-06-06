@@ -1,0 +1,111 @@
+.section-size-and-weight .image-dimensions-iphone-12-mini {
+	background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-size-and-weight .image-dimensions-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-size-and-weight .image-dimensions-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12_mini__ercdrcuaz36u_small_2x.jpg");
+	}
+}
+
+.section-size-and-weight .image-dimensions-iphone-12 {
+	background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-size-and-weight .image-dimensions-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-size-and-weight .image-dimensions-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-size-and-weight .image-dimensions-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/dimensions_iphone12__e11uxcjviyeu_small_2x.jpg");
+	}
+}
+
+.section-display .image-display-iphone-12-mini {
+	background-image: url("/id/iphone-12/images/specs/display_iphone12_mini__df5jemxacr6u_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-display .image-display-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12_mini__df5jemxacr6u_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-display .image-display-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12_mini__df5jemxacr6u_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-display .image-display-iphone-12-mini {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12_mini__df5jemxacr6u_small_2x.jpg");
+	}
+}
+
+.section-display .image-display-iphone-12 {
+	background-image: url("/id/iphone-12/images/specs/display_iphone12__1x80yysjwgia_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-display .image-display-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12__1x80yysjwgia_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-display .image-display-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12__1x80yysjwgia_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-display .image-display-iphone-12 {
+		background-image: url("/id/iphone-12/images/specs/display_iphone12__1x80yysjwgia_small_2x.jpg");
+	}
+}
